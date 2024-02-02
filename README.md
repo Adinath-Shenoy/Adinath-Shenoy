@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adinath-Shenoy
-- 👀 I’m interested in Data Engineering, Data Science, Machine Learning and Cloud Architecture
-- 🌱 I’m currently learning cloud architecture on Microsoft Azure
+- 👋 Hi, I’m @Adinath-Shenoy and I work as a Data Engineer
+- 🎓 I am a Data Science, Finance and Information Systems graduate from The University of Auckland
+- 👀 I’m interested in Data Engineering + Machine Learning on Microsoft Azure + Databricks
 
 <!---
 Adinath-Shenoy/Adinath-Shenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
